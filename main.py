@@ -23,3 +23,10 @@ print("Привет после первого комита")
 #                           закоммитить обратно
 # git revert хеш_коммита - отменяет нужный коммент указанный в хеше и заменяет его
 #                          на новый
+
+# git config --global user.name "Axelerts"
+# git config --global user.email "bertus2016@mail.ru"
+# git remote add название_подключения ссылка_на репозиторий
+# git remote remove название_подключения
+
+# git remote add origin https://github.com/Axelerts/Github_projects.git

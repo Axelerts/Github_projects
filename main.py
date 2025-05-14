@@ -30,3 +30,9 @@ print("Привет после первого комита")
 # git remote remove название_подключения
 
 # git remote add origin https://github.com/Axelerts/Github_projects.git
+
+# git add .
+# git commit -m "делаем пуш в гит репо"
+# git push origin master
+# ssh-keygen -t rsa
+# c:\users\user/.ssh/tst_github_rsa
